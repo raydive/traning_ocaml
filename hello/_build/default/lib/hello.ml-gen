@@ -2,3 +2,6 @@
 
 (** @canonical Hello.En *)
 module En = Hello__En
+
+(** @canonical Hello.Es *)
+module Es = Hello__Es
